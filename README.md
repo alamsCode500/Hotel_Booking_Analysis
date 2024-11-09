@@ -51,7 +51,7 @@ Investigated relationships between pairs and groups of variables using various t
 * Enhance operational efficiency by adjusting staffing levels according to booking trends during peak and off-peak seasons.
 
 # Files
-* **hotel_booking_analysis.py:** The main Python script where the analysis and visualizations are implemented.
+* **Hotel Booking Analysis.ipynb:** The main Python script where the analysis and visualizations are implemented.
 * **Hotel Bookings.csv:** The hotel booking dataset (can be loaded from a CSV file).
 
 # Technologies Used
