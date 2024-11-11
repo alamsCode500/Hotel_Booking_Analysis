@@ -14,7 +14,7 @@ The dataset used in this analysis contains the following key columns:
 * **stays_in_weekend_nights:** Number of weekend nights stayed
 * **stays_in_week_nights:** Number of week nights stayed
 * **adults, children, babies:** Number of people in the booking
-* **meal:****** Meal plan
+* **meal:** Meal plan
 * **country:** Country of origin of the guest
 * **market_segment:** Market segment of the booking (e.g., Corporate, Online Travel Agent)
 * **is_repeated_guest:** Whether the guest is a repeated guest (1 = yes, 0 = no)
